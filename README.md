@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishmamalarvannan&label=Views%20on%20Me&color=0e75b6&style=flat" alt="karishmamalarvannan" /> </p>
-<h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">This is Jayanthan Senthilkumar👨🏻‍💻</h1>
+<h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">This is Karishma Malarvannan👨🏻‍💻</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">💫 Myself :</h3>
-<p align="center">Hey Guys,I'm Jayanthan SenthilKumar,Currently pursuing B.Tech Artificial Intelligence and Machine Learning. As a passionate learner, I focusing on enhancing my skills in Python with Machine Learning.I am eager to contribute my creativity skills to build efficient and user-friendly Data manipulations and other AI based applications.Connect with me to collaborate on exciting projects!!!  
+<p align="center">Hey Guys,I'm Karishma Malarvannan,Currently pursuing B.Tech Artificial Intelligence and Machine Learning. As a passionate learner, I focusing on enhancing my skills in Python with Machine Learning.I am eager to contribute my creativity skills to build efficient and user-friendly Data manipulations and other AI based applications.Connect with me to collaborate on exciting projects!!!  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡Quote of the day </h2>
 <div align="center">
@@ -26,13 +26,13 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/naruhitokaide](https://www.linkedin.com/in/jayanthan-s-%E3%82%B8%E3%83%A3%E3%83%A4%E3%83%B3%E3%82%BF%E3%83%B3-bba225259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="[https://www.linkedin.com/in/naruhitokaide](https://www.linkedin.com/in/karishmamalarvannan)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:mail2karishmamalarvannan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:karishmamalarvannan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://karishmamalarvannan.streamlit.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+<!--   &nbsp;&nbsp;
+  <a href="https://karishmamalarvannan.streamlit.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
