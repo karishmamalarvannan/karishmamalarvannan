@@ -5,7 +5,7 @@
 ![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">💫 Myself :</h3>
-<p align="center">Hey Guys,I'm Karishma Malarvannan,Currently pursuing B.Tech Artificial Intelligence and Machine Learning. As a passionate learner, I focusing on enhancing my skills in Python with Machine Learning.I am eager to contribute my creativity skills to build efficient and user-friendly Data manipulations and other AI based applications.Connect with me to collaborate on exciting projects!!!  
+<p align="center">Hey Guys,I'm Karishma Malarvannan,Currently pursuing B.Tech Artificial Intelligence and Data Science. As a passionate learner, I focusing on enhancing my skills in Python with Machine Learning.I am eager to contribute my creativity skills to build efficient and user-friendly Data manipulations and other AI based applications.Connect with me to collaborate on exciting projects!!!  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡Quote of the day </h2>
 <div align="center">
